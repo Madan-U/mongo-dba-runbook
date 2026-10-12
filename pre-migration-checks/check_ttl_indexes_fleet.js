@@ -4,9 +4,6 @@
 //               pre-migration compatibility check.
 // Author      : Madan U
 // Email       : madanu135@gmail.com
-// Platform    : MongoFleet — MongoDB DBA Platform
-// Usage       : mongosh <host>/<db> check_nesting_depth_collection.js
-//               mongosh "mongodb://<host>:27017" --file check_nesting_depth_collection.js
 // =============================================================================
 
 function checkAllTTLIndexes() {
