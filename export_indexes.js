@@ -8,7 +8,7 @@
 //               recreate the index structure — useful for migrations, cluster
 //               cloning, or index documentation.
 // Author      : Madan U
-// Email       : madanu135@gmail.co
+// Email       : madanu135@gmail.com
 // =============================================================================
  
 var excludeDatabases = ["local", "admin", "config"];
