@@ -6,6 +6,8 @@
 //               service shutdown, package upgrade, and post-start verification.
 //               Does not cover replica set stepdown or rolling upgrade
 //               orchestration.
+// Author      : Madan U
+// Email       : madanu135@gmail.com
 // Tested On   : RHEL 8.10 | MongoDB 8.0.x
 // =============================================================================
 ```
