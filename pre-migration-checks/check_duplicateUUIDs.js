@@ -4,8 +4,6 @@
 // Author      : Madan U
 // Email       : madanu135@gmail.com
 // Platform    : MongoFleet — MongoDB DBA Platform
-// Usage       : mongosh <host>/<db> check_dollar_fieldnames_collection.js
-//               mongosh "mongodb://<host>:27017" --file check_dollar_fieldnames_collection.js
 // =============================================================================
 
 function checkDuplicateUUIDs() {  
